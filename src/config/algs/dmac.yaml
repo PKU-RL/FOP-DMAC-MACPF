@@ -1,0 +1,75 @@
+# multinomial action selector
+action_selector: "multinomial"
+epsilon_start: 1.0
+epsilon_finish: .05
+epsilon_anneal_time: 50000
+mask_before_softmax: False
+
+runner: "episode"
+
+# update the target network every {} training steps
+target_update_interval: 200
+
+lr: 0.0005
+c_lr: 0.0005
+
+# use COMA
+agent_output_type: "pi_logits"
+td_lambda: 0.8
+learner: "dmac_learner"
+
+name: "dmac"
+buffer_size: 5000
+
+# use QPLEX
+mixing_embed_dim: 32
+hypernet_embed: 64
+adv_hypernet_layers: 1
+adv_hypernet_embed: 64
+
+# use QATTEN
+n_head: 4  
+attend_reg_coef: 0.001  
+burn_in_period: 100
+
+dmac_policy: True
+tau: 0.01
+reward_scale: 10
+
+reg_alpha: 0.1
+
+update_num: 1
+
+
+
+mix_sample_batch_size: 16
+mix_sample_off_batch_size: 32
+sample_mode: 1
+sample_division: 4
+
+
+mean_vs: True
+DOP_target_update_interval: 600
+
+check: False
+check_output: False
+alpha_decay: False
+
+
+double_min: True
+
+state_mixer: True
+state_obs_mixer: False
+mix_sample: True
+DOP_training: False
+use_DOP_critic: True
+DOP_func: True
+next_sample: False
+
+q_table: False
+soft_update_critic: False
+
+check_code_run: False
+test_greedy: False
+
+diff_target_init: False
