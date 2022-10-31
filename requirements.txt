@@ -1,0 +1,6 @@
+matplotlib==3.0.0
+numpy==1.15.2
+PyYAML==6.0
+SMAC==1.0.0
+tensorboard_logger==0.1.0
+torch==1.7.1+cu110
