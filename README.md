@@ -30,7 +30,7 @@ Here, we provide results in three different SMAC scenarios using default hyperpa
 
 If you are using the codes, you are welcomed cite our paper.
 
-[Tianhao Zhang, Yueheng Li, Chen Wang, Guangming Xie and Zongqing Lu. *FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning*. ICML'21.](https://arxiv.org/abs/1810.09202)
+[Tianhao Zhang, Yueheng Li, Chen Wang, Guangming Xie and Zongqing Lu. *FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning*. ICML'21.](https://proceedings.mlr.press/v139/zhang21m.html)
 
     @inproceedings{zhang2021fop,
             title={Fop: Factorizing optimal joint policy of maximum-entropy multi-agent reinforcement learning},
@@ -41,7 +41,7 @@ If you are using the codes, you are welcomed cite our paper.
             organization={PMLR}
     }
 
-[Kefan Su and Zongqing Lu. *Divergence-Regularized Multi-Agent Actor-Critic*. ICML'22.](https://arxiv.org/abs/1810.09202)
+[Kefan Su and Zongqing Lu. *Divergence-Regularized Multi-Agent Actor-Critic*. ICML'22.](https://proceedings.mlr.press/v162/su22b.html)
 
     @inproceedings{su2022divergence,
             title={Divergence-regularized multi-agent actor-critic},
@@ -52,7 +52,7 @@ If you are using the codes, you are welcomed cite our paper.
             organization={PMLR}
     }
 
-[Jiangxing Wang and Zongqing Lu. *More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization*.](https://arxiv.org/abs/1810.09202)
+[Jiangxing Wang, Deheng Ye and Zongqing Lu. *More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization*.](https://arxiv.org/abs/2209.12681)
 
     @article{wang2022more,
         title={More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization},
