@@ -3,7 +3,7 @@
 ## Note
 
 The implementation of the following methods can be found in this codebase:
-- [**FOP**: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v139/zhang21m/zhang21m.pdf)
+- [**FOP**: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v139/zhang21m.html)
 - [**DMAC**: Divergence-Regularized Multi-Agent Actor-Critic](https://proceedings.mlr.press/v162/su22b.html)
 - [**MACPF**: More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization](https://arxiv.org/abs/2209.12681) 
 
