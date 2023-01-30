@@ -19,12 +19,10 @@ CUBLAS_WORKSPACE_CONFIG=:16:8 python3 src/main.py --config=fop/dmac/dfop --env-c
 ```
 Environment variable **CUBLAS_WORKSPACE_CONFIG** is recommended to enforce deterministic behavior of RNN.
 
-<!---
 ## Results
 
 Here, we provide results in three different SMAC scenarios using default hyperparameters.
 ![3s_vs_3z](./img/3s_vs_3z.png)![2c_vs_64zg](./img/2c_vs_64zg.png)![MMM2](./img/MMM2.png)
--->
 
 ## Citation
 
