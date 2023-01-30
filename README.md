@@ -28,8 +28,6 @@ Here, we provide results in three different SMAC scenarios using default hyperpa
 
 ## Citation
 
-### Citation
-
 If you are using the codes, you are welcomed cite our paper.
 
 [Tianhao Zhang, Yueheng Li, Chen Wang, Guangming Xie and Zongqing Lu. *FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning*. ICML'21.](https://proceedings.mlr.press/v139/zhang21m.html)
