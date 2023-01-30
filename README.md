@@ -37,7 +37,7 @@ If you are using the codes, you are welcomed cite our paper.
     @inproceedings{zhang2021fop,
             title={Fop: Factorizing optimal joint policy of maximum-entropy multi-agent reinforcement learning},
             author={Zhang, Tianhao and Li, Yueheng and Wang, Chen and Xie, Guangming and Lu, Zongqing},
-            booktitle={International Conference on Machine Learning},
+            booktitle={International Conference on Machine Learning (ICML)},
             pages={12491--12500},
             year={2021},
             organization={PMLR}
@@ -48,17 +48,17 @@ If you are using the codes, you are welcomed cite our paper.
     @inproceedings{su2022divergence,
             title={Divergence-regularized multi-agent actor-critic},
             author={Su, Kefan and Lu, Zongqing},
-            booktitle={International Conference on Machine Learning},
+            booktitle={International Conference on Machine Learning (ICML)},
             pages={20580--20603},
             year={2022},
             organization={PMLR}
     }
 
-[Jiangxing Wang, Deheng Ye and Zongqing Lu. *More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization*.](https://arxiv.org/abs/2209.12681)
+[Jiangxing Wang, Deheng Ye and Zongqing Lu. *More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization*.](https://openreview.net/forum?id=znLlSgN-4S0)
 
-    @article{wang2022more,
+    @inproceedings{wang2022more,
         title={More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization},
         author={Wang, Jiangxing and Ye, Deheng and Lu, Zongqing},
-        journal={arXiv preprint arXiv:2209.12681},
-        year={2022}
+        booktitle={International Conference on Learning Representations (ICLR)},
+        year={2023}
     }
