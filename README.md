@@ -54,7 +54,7 @@ If you are using the codes, please cite our papers.
 
 [Jiangxing Wang, Deheng Ye and Zongqing Lu. *More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization*.](https://openreview.net/forum?id=znLlSgN-4S0)
 
-    @inproceedings{wang2022more,
+    @inproceedings{wang2023more,
         title={More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization},
         author={Wang, Jiangxing and Ye, Deheng and Lu, Zongqing},
         booktitle={International Conference on Learning Representations (ICLR)},
