@@ -52,7 +52,7 @@ If you are using the codes, please cite our papers.
             organization={PMLR}
     }
 
-[Jiangxing Wang, Deheng Ye and Zongqing Lu. *More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization*.](https://openreview.net/forum?id=znLlSgN-4S0)
+[Jiangxing Wang, Deheng Ye and Zongqing Lu. *More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization*. ICLR'23.](https://openreview.net/forum?id=znLlSgN-4S0)
 
     @inproceedings{wang2023more,
         title={More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization},
